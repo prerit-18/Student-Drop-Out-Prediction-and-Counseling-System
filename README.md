@@ -1,4 +1,4 @@
-# 🎓 AI-Based Student Dropout Prediction & Counseling Systemm
+# 🎓 AI-Based Student Dropout Prediction & Counseling System
 
 A comprehensive system that combines Streamlit dashboards with Flask API for student dropout prediction and counseling managementt.
 
